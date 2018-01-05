@@ -1,0 +1,4 @@
+
+
+remove_action( 'homepage', 'storefront_popular_products',      50 );
+
